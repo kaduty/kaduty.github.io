@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.google-analytics.com	TRUE	/	FALSE	1999999999	wscdn	6
-www.iphonelife.com	TRUE	/	FALSE	1999999999	csrftoken	KLnEbgbmOHHt2hFLwOMflEdWroUAYda1
-.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	dffcd1a73cb16de688cb9e2b6beea7df71534070575
-
