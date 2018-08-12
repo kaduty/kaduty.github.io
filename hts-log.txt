@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Aug 2018 18:38:01 at https://www.iphonelife.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0M50000000H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://www.iphonelife.com/ -O1 "E:\websiteClone\kaduty" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:41:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cdn.iphonelife.com/sites/iphonelife.com/files/advagg_css/css__lzl1Koi5OsoJmbpe2mIZW9mTEGnzDV6WVhJDucEuu1c__E2xDNSgfQzzOH-_aMfSTbZJrTsa9OqZ8LlPSrXWNJOg__VgUbZ0QbKAjKqESC6yTN_KviYlEF3yQ6Z-Ppu709CKY.css (from https://www.iphonelife.com/)
+18:41:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://dsh7ky7308k4b.cloudfront.net/publishers/iphonelifecom.min.js (from https://www.iphonelife.com/)
+18:52:56	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

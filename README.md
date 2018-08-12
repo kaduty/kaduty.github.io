@@ -1,2 +1,0 @@
-# kaduty.github.io
-kaduty
